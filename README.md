@@ -4,14 +4,14 @@
 - 🌱 I’m currently studying at Blue Edtech
 <div align="center">
   <a href="https://github.com/briebibiano">
-  <img align="center" img height="160em" width="450" src="https://github-readme-stats.vercel.app/api?username=briebibiano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center"img height="160em" width="460"src="https://github-readme-stats.vercel.app/api/top-langs/?username=briebibiano&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" img height="160em" src="https://github-readme-stats.vercel.app/api?username=briebibiano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center"img height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=briebibiano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Brie-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Brie-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
   <img align="center" alt="Brie-VsCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
   
